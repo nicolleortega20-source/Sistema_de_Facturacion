@@ -1,0 +1,9 @@
+PACK-001; Juan Perez; Zona A; 12.5; 150.0
+PACK-002; Maria Lopez; Zona C; -5.0; 200.0
+PACK-003; Pedro Gomez; Zona B; ABC; 100.0
+PACK-004; Ana Ruiz; Zona C; 23.5; 1500.0
+PACK-005; Jose Diaz; Zona B; 5.0; 300.0
+PACK-006; Luisa Torres; Zona A; 8.0; 800.0
+PACK-007; Carlos Lara; Zona C; 10.0; 2000.0
+PACK-008; Elena Soto; Zona B; 18.0; 950.0
+PACK-009; Andres Gil; Zona A; 22.0; 100.0
