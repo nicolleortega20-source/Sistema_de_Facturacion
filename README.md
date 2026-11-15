@@ -121,7 +121,7 @@ La opción **Limpiar** no elimina esa base de datos. Los archivos CSV se guardan
 
 ## Repositorio
 
-**GitHub:** `URL_DEL_REPOSITORIO`
+**GitHub:** `(https://github.com/nicolleortega20-source/Sistema_de_Facturacion.git)`
 
 Sustituir por la URL real del repositorio del equipo antes de entregar. El repositorio debe incluir el código fuente y los archivos necesarios para compilar el proyecto, pero no contraseñas ni archivos temporales de Visual Studio.
 
