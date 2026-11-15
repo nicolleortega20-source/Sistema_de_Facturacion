@@ -128,12 +128,11 @@ Sustituir por la URL real del repositorio del equipo antes de entregar. El repos
 ## Equipo de desarrollo
 
 | Integrante | ID universitario | 
-| --- | --- | --- |
+| --- | --- |
 | Carmen Elizabeth González Guerrero | 277472 | 
 | Carla Alejandra Montalvo Ojeda | 428942 | 
 | Nicolle Ortega Moreno | 432378 | 
 
-Completar esta tabla con las contribuciones reales de cada integrante. El reporte de participación detallado se entrega por separado si así lo solicita la actividad.
 
 ## Contexto académico
 
